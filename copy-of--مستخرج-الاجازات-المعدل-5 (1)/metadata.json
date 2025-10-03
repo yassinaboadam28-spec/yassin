@@ -1,5 +1,0 @@
-{
-  "name": "Copy of  مستخرج الاجازات المعدل 5",
-  "description": "A client-side web application to upload, view, filter, sort, and export Excel data. The user can upload an Excel file, and the app will display it in a searchable and sortable HTML table, with an option to download the data as a CSV file.",
-  "requestFramePermissions": []
-}
